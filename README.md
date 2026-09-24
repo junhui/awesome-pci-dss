@@ -43,6 +43,7 @@ A curated list of PCI DSS–related resources: standards, SAQs, guidance, toolin
 - [OpenVAS](https://www.openvas.org/) - Vulnerability scanning
 - [OSSEC](https://www.ossec.net/) - Host-based intrusion detection
 - [Mozilla SSL Configuration Generator](https://ssl-config.mozilla.org/) - TLS hardening
+- [Mock Jutsu](https://github.com/altansayan/mock-jutsu-api) - Generates checksum-valid, PCI DSS-safe test data (card numbers, IBANs, identity fields) with a built-in masking module, so no real cardholder data is needed in non-prod environments
 
 ### Commercial
 - [Qualys](https://www.qualys.com/) - Vulnerability scanning, asset inventory, and PCI DSS compliance monitoring
