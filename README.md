@@ -90,6 +90,7 @@ These tools help organizations meet PCI DSS 6.4.3 (script management and authori
 - [Visualping](https://visualping.io/) - Automated change and tamper detection for payment pages, monitors content and HTTP headers
 - [CHEQ Privacy Compliance](https://www.cheq.ai/) - Monitors and intercepts script requests, detects unauthorized changes
 - [Akamai Client-Side Protection](https://www.akamai.com/solutions/security/client-side-protection) - JavaScript security, client-side script monitoring, integrity checks
+- [HeaderHawk](https://headerhawk.com/pci/) - Payment-page script inventory and authorization from the hashes browsers report, daily scans of payment-page headers, and a 6.4.3 and 11.6.1 readiness view with dated evidence exports
 
 ## Policy Templates & Resources
 
