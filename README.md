@@ -57,6 +57,7 @@ A curated list of PCI DSS–related resources: standards, SAQs, guidance, toolin
 - [Rapid7 InsightVM](https://www.rapid7.com/products/insightvm/) - Vulnerability assessment and risk prioritization
 - [Thales CipherTrust](https://cpl.thalesgroup.com/encryption) - Data encryption and tokenization solutions
 - [Imperva WAF](https://www.imperva.com/products/web-application-firewall-waf/) - Web application firewall for protecting payment applications
+- [Compliance Assessment Tool](https://banks.complianceassessmenttool.com/pci-compliance-api) - White-label PCI DSS self-assessment for ISOs, acquirers and PayFacs; determines each merchant's SAQ in plain English and produces the signed SAQ and AoC
 - [CyberArk](https://www.cyberark.com/) - Privileged access management for secure authentication
 - [Okta](https://www.okta.com/) - Identity and access management for PCI environments
 - [TokenEx](https://www.tokenex.com/) - Cloud tokenization for protecting cardholder data
